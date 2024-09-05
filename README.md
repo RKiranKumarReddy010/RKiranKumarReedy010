@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ✨ I Read : Research Papers 
 
 
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZqdHN2MGw1aXFzNjc3aXQ3b2kwOWF6YmthaTEwOWZ3a24zYjlpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c8P0srXm9BNug/giphy.gif" width="200">
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZqdHN2MGw1aXFzNjc3aXQ3b2kwOWF6YmthaTEwOWZ3a24zYjlpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c8P0srXm9BNug/giphy.gif" width="400" style="top=50px">
 
 ## About me:
 - 😄 Fun fact: I'm a Python Developer
