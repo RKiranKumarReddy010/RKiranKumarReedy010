@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Email](rkirankumarreddy599@gmail.com)
 - 💬 Ask me about `Machine Learning` or `Deep Learning`
 
-<img align="right" src="https://tenor.com/bCr9Z.gif" width="300">
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZqdHN2MGw1aXFzNjc3aXQ3b2kwOWF6YmthaTEwOWZ3a24zYjlpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c8P0srXm9BNug/giphy.gif" width="300">
 
 ## My stack:
 - 5+ years of experience in React, Node.js, Express.js , async, await
