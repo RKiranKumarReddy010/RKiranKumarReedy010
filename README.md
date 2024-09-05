@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Kiran 👋 </h1>
 <h3 align="center">Aspiring Machine Learning Engineer</h3>
 
-❤️ I love Machine Learning, Deep Learning, GENAI.......<br>
+❤️ I love Machine Learning, Deep Learning, GENAI<br>
 🤔 I'm currently working on Flutter ( Android Development ).
 
 ✨ I Read : Research Papers 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Email](rkirankumarreddy599@gmail.com)
 - 💬 Ask me about `Machine Learning` or `Deep Learning`
 
-<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
+<img align="right" src="https://tenor.com/bCr9Z.gif" width="300">
 
 ## My stack:
 - 5+ years of experience in React, Node.js, Express.js , async, await
