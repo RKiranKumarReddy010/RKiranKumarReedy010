@@ -32,15 +32,14 @@ Here are some ideas to get you started:
 
 
 ## My stack:
-- 5+ years of experience in React, Node.js, Express.js , async, await
-- 3+ years of experience in Kubernetes
-- 1+ years of experience in Rust
-- 🏆 Chat bots (Telegram, Twitter, Facebook Messenger)
+- 5+ years of experience in Python
+- 3+ years of experience in Machine Learning
+- 1+ years of experience in Flutter
+- 🏆 Chat bots using GENAI
 - ❤️ API, RESTful API, GraphQL
 - HTML/CSS, Javascript
-- git, docker, CI/CD
-- SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB ...
-- LocalStorage, SessionStorage, JWT
+- git, CI/CD
+- ChromaDB, Firebase
 
 ## Languages and Tools:
 <div align="left">
