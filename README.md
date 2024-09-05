@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RKiranKumarReddy010.RKiranKumarReddy010&left_color=royalblue&right_color=black"  />
 <h3 align="center">Aspiring Machine Learning Engineer</h3>
 
-❤️ I love Machine Learning, Deep Learning, GENAI.......
+❤️ I love Machine Learning, Deep Learning, GENAI.......<br>
 🤔 I'm currently working on Flutter ( Android Development ).
 
 ✨ I Read : Research Papers 
