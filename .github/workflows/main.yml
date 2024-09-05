@@ -36,9 +36,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-Sign commits
-
-You can use the Import GPG action along with this one to sign commits:
 
       -
         name: Import GPG key
