@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi, I'm Kiran 👋 </h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taozhi8833998.taozhi883398&left_color=royalblue&right_color=black"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RKiranKumarReddy010.RKiranKumarReddy010&left_color=royalblue&right_color=black"  />
 <h3 align="center">Aspiring Machine Learning Engineer</h3>
 
 ❤️ I love Machine Learning, Deep Learning, GENAI.......
