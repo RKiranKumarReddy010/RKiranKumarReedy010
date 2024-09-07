@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 ❤️ I love Machine Learning, Deep Learning, GENAI<br>
 🤔 I'm currently working on Flutter ( Android Development ).
-
 ✨ I Read : Research Papers 
 
 
