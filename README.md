@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">Aspiring Machine Learning Engineer</h3>
 
 ❤️ I love Machine Learning, Deep Learning, GENAI<br>
-🤔 I'm currently working on Flutter ( Android Development ).
+🤔 I'm currently working on Flutter ( Android Development ).<br>
 ✨ I Read : Research Papers 
 
 
